@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.edgelesschat.chat</string>
+				<string>com.chat.1231</string>
 				<key>bundle-version</key>
 				<string>2.0.60</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Edgeless</string>
+				<string>Weibo</string>
 			</dict>
 		</dict>
 	</array>
